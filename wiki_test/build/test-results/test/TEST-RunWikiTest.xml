@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RunWikiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-10T14:40:28" hostname="Lena-Toshiba" time="0.002">
+  <properties/>
+  <testcase name="openAppTest" classname="RunWikiTest" time="0.002"/>
+  <system-out><![CDATA[App opened
+]]></system-out>
+  <system-err><![CDATA[Nov 10, 2019 4:40:28 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
